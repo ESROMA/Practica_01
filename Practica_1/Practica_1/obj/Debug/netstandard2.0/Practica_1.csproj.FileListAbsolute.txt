@@ -1,0 +1,15 @@
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\bin\Debug\netstandard2.0\Practica_1.deps.json
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\bin\Debug\netstandard2.0\Practica_1.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\bin\Debug\netstandard2.0\ref\Practica_1.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\bin\Debug\netstandard2.0\Practica_1.pdb
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.csproj.AssemblyReference.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.AssemblyInfoInputs.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.AssemblyInfo.cs
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.csproj.CoreCompileInputs.cache
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\ref\Practica_1.dll
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\Practica_1.pdb
+D:\Documentos\INTEC\Trimestre_13\Desarrollo Movil\Practica 1\Practica_1\Practica_1\Practica_1\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs

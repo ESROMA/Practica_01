@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica_1.LoginPage">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Image Source="Logo_Dragon.png" HeightRequest="250" HorizontalOptions="Center"/>
+            <Label FontSize="35" Text="Dragon Age" HorizontalOptions="Center"/>
+            <Grid VerticalOptions="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Entry x:Name="nombreEntry" Keyboard="Default" Grid.Row="0" Placeholder="Nombre"/>
+                <Entry x:Name="contraseñaEntry" IsPassword="True" Keyboard="Default" Placeholder="Contraseña"  Grid.Row="1"/>
+                <Button Text="Login" Clicked="OnButtonClicked" Grid.Row="2"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
